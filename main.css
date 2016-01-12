@@ -1,0 +1,14 @@
+/* ADD YOUR STYLES HERE */
+.table{
+	width: 80%;
+}
+
+.table tr {
+	border-bottom: 1px solid black;
+}
+
+.table tr:last-child{
+	border-bottom: 0px solid black;
+}
+}
+	
